@@ -1,2 +1,2 @@
 # HWassignment1
-My function will have the ability to read my program 
+My python program will have the function to have the ability to take a users input numbers and calculate the average of the numbers provided. 
